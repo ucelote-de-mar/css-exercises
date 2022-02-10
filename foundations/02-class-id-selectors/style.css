@@ -1,0 +1,20 @@
+.odd-line {
+	background-color: #FFA7A7;
+	font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.odd-line.centric-line {
+	font-size: 24px;
+}
+
+#second-line {
+	color: rgb(0,0,255);
+	font-size: 36px;
+}
+
+#fourth-line {
+	background-color: hsl(120, 100%, 75%)
+;
+	font-size: 24px;
+	font-weight: bold;
+}

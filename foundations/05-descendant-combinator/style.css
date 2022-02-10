@@ -1,0 +1,7 @@
+/* Any `p` children nested under `div`, even if they're not _classed_ as 'text' */
+div>p {
+	background-color: rgb(255,255,0);
+	color: red;
+	font-size: 20px;
+	text-align: center;
+}
